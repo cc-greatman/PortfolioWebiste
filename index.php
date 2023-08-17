@@ -11,7 +11,7 @@
     <meta name="author" content="Greatman Blessed">
 
     <!-- Title  -->
-    <title>BitSYS</title>
+    <title>BitSYS - Dreams to Reality</title>
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="152x152" href="/assets/fav/apple-touch-icon.png">
