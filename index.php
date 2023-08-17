@@ -209,7 +209,7 @@
                                     </div>
                                     <div>
                                         <div class="butn-presv">
-                                            <a href="#0" class="butn butn-md butn-bord radius-5 skew">
+                                            <a href="/Resume-CV.pdf" class="butn butn-md butn-bord radius-5 skew" download="Blessed-Greatman-Resume.pdf">
                                                 <span>Download C.V</span>
                                             </a>
                                         </div>
