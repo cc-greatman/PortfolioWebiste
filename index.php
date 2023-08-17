@@ -681,7 +681,7 @@
                     </div>
                     <div class="col-lg-6 offset-lg-1 valign">
                         <div class="full-width">
-                            <form id="contact-form" method="post" action="/sendmail.php">
+                            <form id="contact-form" method="post" action="https://bitsys.ng/sendmail">
 
                                 <div class="messages"></div>
 
@@ -713,7 +713,7 @@
                                                 required="required"></textarea>
                                         </div>
                                         <div class="mt-30">
-                                            <button type="submit">
+                                            <button type="submit" name="submit">
                                                 <span class="text">Send A Message</span>
                                             </button>
                                         </div>
