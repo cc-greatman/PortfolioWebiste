@@ -689,15 +689,13 @@
 
                                     <div class="col-lg-6">
                                         <div class="form-group mb-30">
-                                            <input id="form_name" type="text" name="name" placeholder="Name"
-                                                required="required">
+                                            <input id="form_name" type="text" name="name" placeholder="Name">
                                         </div>
                                     </div>
 
                                     <div class="col-lg-6">
                                         <div class="form-group mb-30">
-                                            <input id="form_email" type="email" name="email" placeholder="Email"
-                                                required="required">
+                                            <input id="form_email" type="email" name="email" placeholder="Email">
                                         </div>
                                     </div>
 
@@ -713,7 +711,7 @@
                                                 required="required"></textarea>
                                         </div>
                                         <div class="mt-30">
-                                            <button type="submit" name="submit">
+                                            <button type="submit" name="submit" value="submit">
                                                 <span class="text">Send A Message</span>
                                             </button>
                                         </div>
