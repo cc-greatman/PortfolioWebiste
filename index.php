@@ -681,7 +681,7 @@
                     </div>
                     <div class="col-lg-6 offset-lg-1 valign">
                         <div class="full-width">
-                            <form method="<?php echo $_SERVER["REQUEST_URI"] ?>" action="/sendmail">
+                            <form method="<?php echo $_SERVER["PHP_SELF"] ?>" action="/sendmail">
 
                                 <div class="messages"></div>
 
