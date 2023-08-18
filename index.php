@@ -681,7 +681,7 @@
                     </div>
                     <div class="col-lg-6 offset-lg-1 valign">
                         <div class="full-width">
-                            <form method="post" action="https://bitsys.ng/sendmail">
+                            <form method="post" action="/sendmail">
 
                                 <div class="messages"></div>
 
