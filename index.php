@@ -137,10 +137,7 @@
                         <a class="nav-link" href="#0" data-scroll-nav="4"><span class="rolling-text">Testimonials</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#0" data-scroll-nav="5"><span class="rolling-text">Blog</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#0" data-scroll-nav="6"><span class="rolling-text">Contact</span></a>
+                        <a class="nav-link" href="#0" data-scroll-nav="5"><span class="rolling-text">Contact</span></a>
                     </li>
                 </ul>
             </div>
@@ -191,7 +188,7 @@
                         <div class="about section-padding" data-scroll-index="0">
                             <div class="cont">
                                 <h1>Hello, I’m <span class="main-color">Greatman Blessed</span>, Fullstack Developer
-                                    and <span class="bord">Art Lover <i></i></span> Based in Nigeria.</h1>
+                                    and <span class="bord main-color">Art Lover <i></i></span> Based in Nigeria.</h1>
                             </div>
                             <div class="stauts mt-80">
                                 <div class="d-flex align-items-center">
@@ -665,7 +662,7 @@
 
          <!-- ==================== Start Contact ==================== -->
 
-         <section class="contact section-padding bord-thin-top" data-scroll-index="6">
+         <section class="contact section-padding bord-thin-top" data-scroll-index="5">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5">
@@ -676,6 +673,13 @@
                                 touch, we’d love to hear from you!</p>
                             <div class="phone fz-30 fw-600 mt-30 underline">
                                 <a href="tel:07066837301" class="main-color">+234 70 6683 7301</a>
+                            </div>
+                            <div id="navbarSupportedContent">
+                                <div class="butn-presv">
+                                    <a href="https://wa.me/message/VPGTPTE2MFMBG1" class="butn butn-sm butn-bg bg-white radius-5 skew">
+                                        <span class="text-dark">Hire Me!</span>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
