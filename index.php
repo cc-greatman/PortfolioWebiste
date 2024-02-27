@@ -194,7 +194,7 @@
                                 <div class="d-flex align-items-center">
                                     <div class="mr-40">
                                         <div class="d-flex align-items-center">
-                                            <h2>4+</h2>
+                                            <h2>5+</h2>
                                             <p>Years <br> of Experience</p>
                                         </div>
                                     </div>
@@ -215,7 +215,7 @@
                             </div>
                             <div class="text mt-80">
                                 <h6 class="sub-title mb-15">About Me.</h6>
-                                <p class="fz-20">A results-driven Web Developer with 5+ years of experience in software engineering and web development. A proven track record of planning, developing, and implementing interactive websites. Adept at leveraging SEO strategies and user-centered design principles to engage users and grow web traffic</p>
+                                <p class="fz-20">Experienced Web Developer with 5+ years in software engineering and web development. Proven track record in creating interactive websites and implementing SEO strategies for enhanced engagement and traffic growth.</p>
                             </div>
                         </div>
 
@@ -246,15 +246,15 @@
                             </div>
                             <div class="item d-flex align-items-center mb-30">
                                 <div class="date mr-60">
-                                    <p class="fz-13">2022 - Date</p>
+                                    <p class="fz-13">2021 - Date</p>
                                 </div>
                                 <div>
-                                    <h6><a href="https://cursorcart.com" title="Cursor Cart">Web Dev - CursorCart NG</a></h6>
+                                    <h6><a href="https://everfreshcreations.com" title="EverFresh Creations">Web Dev - EverFresh Creations</a></h6>
                                 </div>
                                 <div class="ml-auto">
                                     <div class="d-flex align-items-center">
                                         <div class="icon-img-40 mr-100">
-                                            <img src="assets/imgs/resume/p2.png" title="Cursor Cart" alt="">
+                                            <img src="assets/imgs/resume/p2.png" title="EverFresh Creations" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -296,13 +296,13 @@
                                                 </div>
                                             </div>
                                             <div>
-                                                <h6 class="fz-18">UI / UX Design</h6>
+                                                <h6 class="fz-18">Frontend Development</h6>
                                             </div>
                                         </div>
                                         <div class="skill-progress">
-                                            <span class="progres" data-value="80%"></span>
+                                            <span class="progres" data-value="90%"></span>
                                         </div>
-                                        <span class="value">80%</span>
+                                        <span class="value">90%</span>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
@@ -314,7 +314,7 @@
                                                 </div>
                                             </div>
                                             <div>
-                                                <h6 class="fz-18">Development</h6>
+                                                <h6 class="fz-18">Backend Development</h6>
                                             </div>
                                         </div>
                                         <div class="skill-progress">
@@ -332,7 +332,7 @@
                                                 </div>
                                             </div>
                                             <div>
-                                                <h6 class="fz-18">Graphic Design</h6>
+                                                <h6 class="fz-18">Logo Design</h6>
                                             </div>
                                         </div>
                                         <div class="skill-progress">
@@ -388,36 +388,36 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
                         <div class="item md-mb30">
-                            <h3 class="letr">P</h3>
-                            <h6>Product Design</h6>
+                            <h3 class="letr">F</h3>
+                            <h6>Frontend Development</h6>
                             <p>Imagine, create, and iterate products that solve users' problems or address specific needs in a given market</p>
                             <div class="tags">
-                                <a href="#0">UI / UX</a>
-                                <a href="#0">Prototyping</a>
-                                <a href="#0">Wire-framing</a>
+                                <a href="#0">HTML5</a>
+                                <a href="#0">CSS3</a>
+                                <a href="#0">JavaScript</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="item md-mb30">
-                            <h3 class="letr">W</h3>
-                            <h6>Web Development</h6>
+                            <h3 class="letr">B</h3>
+                            <h6>Backend Development</h6>
                             <p>Developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.</p>
                             <div class="tags">
-                                <a href="#0">Frontend</a>
-                                <a href="#0">Backend</a>
-                                <a href="#0">Database</a>
+                                <a href="#0">PHP</a>
+                                <a href="#0">REST Apis</a>
+                                <a href="#0">SQL</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="item sm-mb30">
-                            <h3 class="letr">G</h3>
-                            <h6>Graphic Design</h6>
-                            <p>Creating visual content, utilizing hierarchy, layout techniques, typography, and pictures to enhance user experience and cater to specific user needs.</p>
+                            <h3 class="letr">L</h3>
+                            <h6>Logo Design</h6>
+                            <p>Creating visual content, utilizing hierarchy, layout techniques, typography, and pictures to enhance user experience and cater to Clients brand.</p>
                             <div class="tags">
-                                <a href="#0">Banners</a>
-                                <a href="#0">Fliers</a>
+                                <a href="#0">Prototype</a>
+                                <a href="#0">Ideate</a>
                                 <a href="#0">Logo</a>
                             </div>
                         </div>
@@ -486,14 +486,14 @@
                     <div class="col-lg-6">
                         <div class="item mt-50">
                             <div class="img">
-                                <a href="https://cursorcart.com">
+                                <a href="https://everfreshcreations.com">
                                     <img src="assets/imgs/works/2.png" alt="" class="radius-5">
                                 </a>
                             </div>
                             <div class="cont mt-30 d-flex align-items-center">
                                 <div>
                                     <span class="tag">Web Development</span>
-                                    <h6 class="line-height-1"><a href="https://cursorcart.com">Cursor Cart Nigeria Website</a>
+                                    <h6 class="line-height-1"><a href="https://everfreshcreations.com">Everfresh Creations LTD Website</a>
                                     </h6>
                                 </div>
                                 <div class="ml-auto">
