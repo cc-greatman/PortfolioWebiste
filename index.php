@@ -38,7 +38,7 @@
 
 </head>
 
-<body class="dots-waves" oncontextmenu="return false;">
+<body class="dots-waves">
 
 
 
