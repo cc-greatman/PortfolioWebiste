@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="keywords" content="HTML5 Website-Development Web-DesignerGreatman-Blessed Enugu Nigeria CSS3 PHP JavaScript Laravel Git FullStack-Development Frontend-Development Backend-Development Greatman Blessed Bitsys">
-    <meta name="description" content="A results-driven Web Developer with 5+ years of experience in software engineering and web development. A proven track record of planning, developing, and implementing interactive websites. Adept at leveraging SEO strategies and user-centered design principles to engage users and grow web traffic">
+    <meta name="keywords" content="HTML5, CSS3, PHP, JavaScript, Laravel, Git, Frontend Development, Backend Development, Responsive Web Design, User Experience Design, User Interface Design, Web Development Frameworks, Cross-Browser Compatibility, Mobile-Friendly Design, Website Optimization, SEO Optimization, Content Management Systems, Web Accessibility, Progressive Web Apps, Version Control, Wireframing, Prototyping, Code Debugging, Code Optimization, Web Performance, Database Management, API Integration, Server-Side Scripting, Client-Side Scripting, Agile Development, Scrum Methodology, UI/UX Design Tools, Web Security, SSL Certification, Continuous Integration, Test-Driven Development, Frontend Frameworks, Backend Frameworks, Website Maintenance, Technical Support, Collaborative Development, Remote Work, Enugu Nigeria.">
+    <meta name="description" content="Experienced Web Developer with 5+ years creating interactive websites and implementing SEO strategies for engagement and traffic growth.">
     <meta name="author" content="Greatman Blessed">
 
     <!-- Title  -->
