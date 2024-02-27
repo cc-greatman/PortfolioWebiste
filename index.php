@@ -234,12 +234,12 @@
                                     <p class="fz-13">2021 - Date</p>
                                 </div>
                                 <div>
-                                    <h6><a href="https://millenniumgroup.ng" title="Millennium Group">Web Dev - Millennium</a></h6>
+                                    <h6><a href="https://millenniumconcierge.ng" title="Millennium Concierge">Web Dev - Millennium</a></h6>
                                 </div>
                                 <div class="ml-auto">
                                     <div class="d-flex align-items-center">
                                         <div class="icon-img-40 mr-100">
-                                            <img src="assets/imgs/resume/p1.png" style="height: 20px; width: 100px;" alt="" title="Millennium Group">
+                                            <img src="assets/imgs/resume/p1.png" style="height: 20px; width: 100px;" alt="" title="Millennium Concierge">
                                         </div>
                                     </div>
                                 </div>
